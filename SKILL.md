@@ -22,7 +22,7 @@ Bilingual Prediction output.
 **用法 / Usage**:
 // turbo
 ```bash
-python e:\py\.agent\skills\trump-tracker\scripts\trump_predictor.py
+python trump_predictor.py
 ```
 
 ## 📦 依赖 / Dependencies
